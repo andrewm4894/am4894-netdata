@@ -1,2 +1,2 @@
-# am4894-netdata
+# am4894netdata
 Package for playing with netdata.
