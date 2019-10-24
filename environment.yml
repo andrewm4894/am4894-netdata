@@ -8,3 +8,4 @@ dependencies:
   - pylint
   - flake8
   - pytest
+  - conda-build
